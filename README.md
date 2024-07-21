@@ -3,6 +3,8 @@ Built by THANN SOPHEAKBOTH through my online learning course HTML and CSS. Copyr
 
 Let me know if you need any further adjustments or additional information!
 
+!!! RESPONSIVE WEBSITE
+
 
 
 
