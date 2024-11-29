@@ -2,6 +2,26 @@
 
 Omnifood is a fictional AI-powered food subscription service designed to promote healthy eating by delivering personalized, nutritious, and delicious meals to users daily. Built with modern web development techniques, this project showcases responsive design, appealing visuals, and an engaging user experience.
 
+## 🌐 Live Demo
+
+Check out the live version of the website at: [omnifood](https://bothsann.github.io/omnifood-webiste/)
+
+---
+
+## 🖼️ Screenshots
+
+### Screenshot 1
+![Screenshot 1](screenshots/screenshot-1.PNG)
+
+### Screenshot 2
+![Screenshot 2](screenshots/screenshot-2.PNG)
+
+### Screenshot 3
+![Screenshot 3](screenshots/screenshot-3.PNG)
+
+### Screenshot 4
+![Screenshot 3](screenshots/screenshot-4.PNG)
+
 ## 🌟 Features
 
 - **Personalized Meal Plans**: Customized meal plans based on user preferences and dietary needs, including vegetarian, vegan, gluten-free, keto, and more.
